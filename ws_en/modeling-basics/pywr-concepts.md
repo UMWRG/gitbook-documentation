@@ -10,7 +10,7 @@ While the general concepts used to create a resource allocation simulation model
 
 ## Node
 
-Nodes represent locations in the simulated water system where water is added, stored, used, consumed, or transmitted. There are different node types in Pywr to help you build your water system model; you can learn more about them in the [Node types](https://water-strategy.gitbook.io/water-strategy/modeling-basics/node-types) section. The data that define the physical characteristics and behavior of a node can be added directly to the node or indirectly by referring to a parameter (described below).
+Nodes represent locations in the simulated water system where water is added, stored, used, consumed, or transmitted. There are different node types in Pywr to help you build your water system model; you can learn more about them in the [Node types](https://water-strategy.gitbook.io/water-strategy/modeling-basics/node-types) section. The data that define the physical characteristics and behavior of a node can be added directly to the node or indirectly by referring to a Parameter (described below).
 
 ## Edge
 
@@ -22,7 +22,7 @@ Constraints can be set on various node types to help represent system behavior. 
 
 ## Allocation Penalty or 'Cost'
 
-Allocation penalties are node attributes that control water allocation priority. These are typically expressed as penalties or 'costs', so the model allocates water first to the node with the lowest penalty. If you prefer allocating by benefit, sending water to where it has the highest benefit first, you'll need to express your priorities in Pywr as negative costs (i.e., use negative numbers).  In fact, both can be used together, so for example if 3 nodes have penalties -10, 2, 6, they will get water in that order (the node with a 'penalty' of -10 gets water first, and the node with allocation penalty 6 gets water last).
+Allocation penalties are node attributes that control water allocation priority. These are typically expressed as penalties or 'costs', and the model allocates water first to the node with the lowest penalty. If you prefer allocating by benefit, sending water to where it has the highest benefit first, you'll need to express your priorities in Pywr as negative costs (i.e., use negative numbers).  In fact, both can be used together, so for example if 3 nodes have penalties -10, 2, 6, they will get water in that order (the node with a penalty of -10 gets water first, and the node with allocation penalty 6 gets water last).
 
 ## Parameter
 
