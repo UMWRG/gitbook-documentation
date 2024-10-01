@@ -10,11 +10,11 @@ While the general concepts used to create a resource allocation simulation model
 
 ## Node
 
-Nodes represent locations of interest in the simulated system where water is added, stored, used, or transmitted. There are many different node types in Pywr to help you quickly build your water system model. It includes water input, water output, water transport, water storage, and so on. You can learn more about them in the [Node types](https://water-strategy.gitbook.io/water-strategy/modeling-basics/node-types) section. Some of the data that define the physical characteristics and behavior of a node can be added directly to the node or indirectly by referring to a parameter (described below).
+Nodes represent locations in the simulated water system where water is added, stored, used, consumed, or transmitted. There are different node types in Pywr to help you build your water system model; you can learn more about them in the [Node types](https://water-strategy.gitbook.io/water-strategy/modeling-basics/node-types) section. The data that define the physical characteristics and behavior of a node can be added directly to the node or indirectly by referring to a parameter (described below).
 
 ## Edge
 
-To form a network, nodes are connected using links that Pywr calls 'Edges'. An edge must have starting and ending nodes. Water flows from the starting node to the ending node. In contrast to other modelling tools, Pywr does not assign information to connections (i.e., Edges) except the source and destination nodes. All of the data required to perform the allocation procedure is stored on the nodes, and the structure of the Edges determines the direction of water flow.
+To form a network, nodes are connected using links representing water conveyance. Pywr calls these 'Edges'. An edge has a starting and an ending node, and water flows from the starting node to the ending node. Pywr does not assign information to these connections (the edges), rather it assigns data to the source and destination nodes. All data required to simulate water management is stored on nodes, the edges only determine the direction of water flow. A Pywr modeler would say 'Pywr edges determine the network topology' which means 'the connections between nodes determine how water moves in the computer model'.
 
 ## Constraint
 
