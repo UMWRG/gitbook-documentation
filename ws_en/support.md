@@ -1,15 +1,13 @@
 ---
-description: >-
-  This page describes the various ways users can request support when using
-  Water Strategy.
+description: There are different ways to request support for WaterStrategy.
 ---
 
 # Support
 
-WaterStrategy has a Discord channel which is frequently monitored. You can request support from WaterStrategy developers and users on this free channel. Please follow this link to sign up:
+WaterStrategy's Discord channel is regularly monitored, offering support from developers and users. You can report bugs or request new features there. Sign up via this link:
 
 [https://discord.gg/bQVmgkFcf7](https://discord.gg/bQVmgkFcf7)
 
 <figure><img src=".gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-In addition, you can email **support@waterstrategy.org**
+Alternatively, you can email **support@waterstrategy.org**
