@@ -16,6 +16,6 @@ The node itself records the net output in its flow attribute (which would be use
 
 ## Example
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In this example 10% of the gross amount of water flowing into the node is lost.

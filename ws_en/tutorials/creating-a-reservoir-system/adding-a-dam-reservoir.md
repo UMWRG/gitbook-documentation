@@ -95,7 +95,7 @@ The figure below shows where to click to rename the catchment node. The same pro
 
 Please go to the following link to find the time series data for this step.
 
-[https://docs.google.com/spreadsheets/d/1ZcmIDCswmAzuHAik\_J806q7xct2YNXZw/edit?usp=sharing\&ouid=103362449956532179397\&rtpof=true\&sd=true](https://docs.google.com/spreadsheets/d/1ZcmIDCswmAzuHAik\_J806q7xct2YNXZw/edit?usp=sharing\&ouid=103362449956532179397\&rtpof=true\&sd=true)
+[https://docs.google.com/spreadsheets/d/1MR1Xxk77gFzcY3J3r6c6g38UB8pd1HMY/edit?usp=sharing\&ouid=103362449956532179397\&rtpof=true\&sd=true](https://docs.google.com/spreadsheets/d/1MR1Xxk77gFzcY3J3r6c6g38UB8pd1HMY/edit?usp=sharing\&ouid=103362449956532179397\&rtpof=true\&sd=true)
 
 * Click on the **Catchment node** and follow the clicks (red arrows shown in the sequence of figures below.
 
@@ -107,7 +107,7 @@ Please go to the following link to find the time series data for this step.
 
 * In the Excel link you will have a time series. Please copy the first (or only time series if there is only one). Make sure to copy the dates as well.
 
-<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption><p>Copy inflow data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * Paste the time series into cell **A1** in the **Dataframe** tab
 
