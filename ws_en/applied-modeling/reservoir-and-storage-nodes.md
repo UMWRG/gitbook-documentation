@@ -1,7 +1,7 @@
 ---
 description: >-
   This page describes the behaviour and configuration of Pywr reservoir nodes in
-  WaterStrategy
+  WaterStrategy.
 ---
 
 # Reservoir and Storage Nodes
