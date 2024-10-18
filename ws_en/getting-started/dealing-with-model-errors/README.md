@@ -12,31 +12,31 @@ layout:
     visible: true
 ---
 
-# How to fix an error based on the report?
+# Dealing with Model Errors
 
-An error will occur when something in a model is incorrect. Learning how to read the error report and fix the error is vital to creating networks.
+Water Strategy reports errors when there is either a technical fault, or the model has some incorrect configuration. Learning how to read a model error report and address the issue is important when creating networks.
 
 This chapter will give you an example on how to read the report and find which part of your model leads to the error.
 
 ## How to get the error report
 
-When a run fails, you will see a red run under the run tab.
+When a run fails, you will see the run turn red in runs section.
 
 <figure><img src="../../.gitbook/assets/image (296).png" alt=""><figcaption><p>Click the red run bar to get the error report</p></figcaption></figure>
 
-Click the red run bar and you will get an error report.
+Click the red run bar and you will get an overview of the run, including the error report.
 
 <figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption><p>The error report</p></figcaption></figure>
 
-Scroll to the end of the report. This is where the run will have failed and exited.
+**Scroll to the end of the report.** This is where the run will reports its error.
 
 <figure><img src="../../.gitbook/assets/image (298).png" alt=""><figcaption><p>Find the error type at the end of the report</p></figcaption></figure>
 
 For this run, it can be found that a monthly profile has not been entered correctly.
 
-In some cases, more detail will be given about an error within the run report.&#x20;
+In some cases, more detail will be given about an error within the run report. It is important to look back through the run logs to see if there are any clues as to the issue.&#x20;
 
-Upon scrolling up and skimming we see 'CRITICAL'. This is an indication that an error has been recognized. In the same line, it indicates where the error is.
+Upon scrolling up we see 'CRITICAL'. This is an indication that an error has been recognized. In the same line, it indicates where the error is.
 
 <figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption><p>Find which monthly profile is incorrect</p></figcaption></figure>
 

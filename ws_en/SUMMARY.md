@@ -11,8 +11,8 @@
 * [Creating a new Project and Network](getting-started/creating-a-new-project-and-network.md)
 * [Sharing Projects and Networks](getting-started/sharing-projects-and-networks.md)
 * [Exporting and Importing Models](getting-started/exporting-and-importing-models.md)
-* [How to fix an error based on the report?](getting-started/how-to-fix-an-error-based-on-the-report/README.md)
-  * [Example Errors](getting-started/how-to-fix-an-error-based-on-the-report/example-errors.md)
+* [Dealing with Model Errors](getting-started/dealing-with-model-errors/README.md)
+  * [Example Errors](getting-started/dealing-with-model-errors/example-errors.md)
 
 ## Modeling Basics
 
