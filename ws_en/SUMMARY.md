@@ -11,6 +11,8 @@
 * [Creating a new Project and Network](getting-started/creating-a-new-project-and-network.md)
 * [Sharing Projects and Networks](getting-started/sharing-projects-and-networks.md)
 * [Exporting and Importing Models](getting-started/exporting-and-importing-models.md)
+* [How to fix an error based on the report?](getting-started/how-to-fix-an-error-based-on-the-report/README.md)
+  * [Example Errors](getting-started/how-to-fix-an-error-based-on-the-report/example-errors.md)
 
 ## Modeling Basics
 
@@ -36,7 +38,7 @@
     * [Storage Node](modeling-basics/node-types/water-storage/storage-node.md)
     * [Reservoir Node](modeling-basics/node-types/water-storage/reservoir-node.md)
     * [VirtualStorage Node](modeling-basics/node-types/water-storage/virtualstorage-node.md)
-    * [RollingVirtualStorage  Node](modeling-basics/node-types/water-storage/rollingvirtualstorage-node.md)
+    * [RollingVirtualStorage Node](modeling-basics/node-types/water-storage/rollingvirtualstorage-node.md)
     * [AnnualVirtualStorage Node](modeling-basics/node-types/water-storage/annualvirtualstorage-node.md)
     * [SeasonalVirtualStorage Node](modeling-basics/node-types/water-storage/seasonalvirtualstorage-node.md)
     * [AggregatedStorage Node](modeling-basics/node-types/water-storage/aggregatedstorage-node.md)
