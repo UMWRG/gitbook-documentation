@@ -2,7 +2,7 @@
 description: >-
   WaterStrategy helps people and organisations understand their water system and
   evaluate future plans. WaterStrategy's documenation helps you build, refine
-  and use a digital twin of your water system.
+  and use a digital twin of your water system..
 layout:
   title:
     visible: true
