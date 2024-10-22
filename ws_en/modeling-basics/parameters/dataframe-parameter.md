@@ -10,10 +10,14 @@ Timeseries parameter with automatic alignment and resampling.[ API Reference](ht
 
 ## Example
 
-coming soon...
+<figure><img src="../../.gitbook/assets/image (305).png" alt="" width="375"><figcaption><p>Inflows_mm3_day.csv</p></figcaption></figure>
 
 ```json
 {
-
+	"type": "DataFrameParameter",
+	"url": "Inflows_mm3_day.csv",
+	"column": "Catchment River 1",
+	"index_col": "timestep",
+	"parse_dates": true
 }
 ```
