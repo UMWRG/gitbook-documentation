@@ -48,7 +48,7 @@ layout:
 
 [allocation-penalties.md](modeling-basics/allocation-penalties.md "mention")
 
-[pywr-scenarios.md](modeling-basics/pywr-scenarios.md "mention")
+[scenarios](modeling-basics/scenarios/ "mention")
 
 [parameters](modeling-basics/parameters/ "mention")
 

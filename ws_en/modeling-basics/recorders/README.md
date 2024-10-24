@@ -10,7 +10,7 @@ This page describes the process of creating a new Recorder in WaterStrategy and 
 
 In a Network page, click the 'Recorders' Tab:
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption><p>CLick the 'Recorders' Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47) (1).png" alt=""><figcaption><p>CLick the 'Recorders' Tab</p></figcaption></figure>
 
 Next to the 'Recorders-Type Categories' Text, click the '+' button and select 'PYWR\_RECORDER':\
 
@@ -19,11 +19,11 @@ Next to the 'Recorders-Type Categories' Text, click the '+' button and select 'P
 
 Enter the name of your recorder. This can be anything you like, <mark style="color:red;">**but must be unique within the network**</mark>**.**
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 
 Populate the recorder in the JSON editor:
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Recorder editors in WaterStrategy
 

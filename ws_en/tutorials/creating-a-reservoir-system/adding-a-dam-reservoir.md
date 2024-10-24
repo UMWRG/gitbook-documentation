@@ -107,7 +107,7 @@ Please go to the following link to find the time series data for this step.
 
 * In the Excel link you will have a time series. Please copy the first (or only time series if there is only one). Make sure to copy the dates as well.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Paste the time series into cell **A1** in the **Dataframe** tab
 

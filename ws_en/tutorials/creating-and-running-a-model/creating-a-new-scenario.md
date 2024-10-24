@@ -10,15 +10,15 @@ Scenarios allow users to explore and evaluate different conditions or management
 
 1\. To create a new scenario, click on the **Clone a scenario** icon.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;choose **Baseline** as the scenario to clone, add a name to your scenario, in this case 'With abstraction', and click **Clone**.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will see the new scenario is automatically made active.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 At the moment, the new scenario is an exact clone of the **baseline** scenario.
 
@@ -34,15 +34,15 @@ Now the amount of water supplied is no longer 0. The demand attempts to abstract
 
 Lets view the simulated\_flow of the sink output node.
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2024-08-08 at 1.18.53 AM.png" alt=""><figcaption></figcaption></figure>
 
 Lets compare the river outflow in both scenarios.
 
-Add the baseline scenario to the view by selecting it in the menu and then pressing the Play  ![](<../../.gitbook/assets/image (43).png>)button
+Add the baseline scenario to the view by selecting it in the menu and then pressing the Play  ![](<../../.gitbook/assets/image (43) (1).png>)button
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2024-08-08 at 1.20.01 AM.png" alt=""><figcaption></figcaption></figure>
 

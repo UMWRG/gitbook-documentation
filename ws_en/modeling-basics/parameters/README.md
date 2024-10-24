@@ -12,20 +12,20 @@ This page describes (most of) the parameter types supported by Pywr. An overview
 
 In a Network, click the 'Parameters' Tab:
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption><p>CLick the 'parameters' tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51) (1).png" alt=""><figcaption><p>CLick the 'parameters' tab</p></figcaption></figure>
 
 Next to the 'Parameters-Type Categories' section, click the '+' button and select 'PYWR\_PARAMETER'.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption><p>Click on pywr_parameter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52) (1).png" alt=""><figcaption><p>Click on pywr_parameter</p></figcaption></figure>
 
 A text-input will appear. Enter the name of your parameter:\
 
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>Enter the parameter name</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54) (1).png" alt=""><figcaption><p>Enter the parameter name</p></figcaption></figure>
 
 Modify the parameter as required in the JSON editor provided:
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Parameter editors in WaterStrategy
 
@@ -36,15 +36,15 @@ To make parameter modifications simpler, WaterStrategy offers editors for common
 In the Parameters Tab, when adding a new Parameter, select 'PYWR\_PARAMETER\_MONTHLY\_PROFILE' as shown:\
 
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption><p>Select PYWR_PARAMETER_MONTHLY_PROFILE</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56) (1).png" alt=""><figcaption><p>Select PYWR_PARAMETER_MONTHLY_PROFILE</p></figcaption></figure>
 
 Note that the edior which appears will show a JSON tab, but also a Plot and Table tab. Modifying the data in the table will automaticall update the data in the JSON as shown:\
 
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption><p>Note the values have been edited in a spreadsheet editor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57) (1).png" alt=""><figcaption><p>Note the values have been edited in a spreadsheet editor</p></figcaption></figure>
 
 These changes automatically update the JSON:
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption><p>Data is automatically updated in the JSON section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58) (1).png" alt=""><figcaption><p>Data is automatically updated in the JSON section</p></figcaption></figure>
 
 ##

@@ -6,7 +6,7 @@ Please watch the video page for more detail.
 
 Click on the the **network level data** menu button.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 The network level data window appears.&#x20;
 

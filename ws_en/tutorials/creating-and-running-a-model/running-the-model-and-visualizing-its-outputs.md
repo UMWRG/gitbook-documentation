@@ -4,9 +4,9 @@ Please watch the video for more details.
 
 {% embed url="https://youtu.be/I0SZ9GXLmXk?t=289" %}
 
-Click the **Run a Model** icon ![](<../../.gitbook/assets/image (12).png>), select **Run Pywr** and click **Submit**.
+Click the **Run a Model** icon ![](<../../.gitbook/assets/image (12) (1).png>), select **Run Pywr** and click **Submit**.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 The model will be submitted to run on the cloud.
 
@@ -14,33 +14,33 @@ You will see the Run appear in the Runs menu.
 
 A blue ribbon means the run is running.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 A yellow ribbon means the run is queing
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 A green ribbon means the run has finished successfully
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;A red ribbon means the run has termined with an error.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Clicking on the ribbon opens a window with the run log. If there is an error, a traceback will appear at the bottom and can be used to help identify why the run had an error.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Once the model has sucessfully ran, you can click on the various nodes to examine their time series output. In this case, the main output attribute is the 'simulated flow'.&#x20;
 
-Double click on the node of interest. “Simulated\_flow” will be available under the Output Section, click on the edit button ![](<../../.gitbook/assets/image (26).png>)to see results. Click on the Demand node which is the node on the right.
+Double click on the node of interest. “Simulated\_flow” will be available under the Output Section, click on the edit button ![](<../../.gitbook/assets/image (26) (1).png>)to see results. Click on the Demand node which is the node on the right.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 A time series table first appears:
 
