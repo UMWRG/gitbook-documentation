@@ -12,9 +12,8 @@ By the end of this tutorial, you will be equipped to manage and customize variou
 
 You will manually upload the required files, so make sure to save them on your computer for easy access during the tutorial
 
-<mark style="background-color:red;">csv file link</mark>
-
-<mark style="background-color:red;">h5 file link</mark>
+* [Thames\_Lee\_Valley\_demand](https://nexsysanalytics-my.sharepoint.com/:x:/g/personal/jgonzalez\_nexsys-analytics\_com/ERY5QXJtGQtFpo7PKUUykJEBI9g6adLvCwxG90xhZqgySQ?e=b4brjW)
+* [Thames\_inflows\_pywrScenarios.h5](https://nexsysanalytics-my.sharepoint.com/:u:/g/personal/jgonzalez\_nexsys-analytics\_com/EV7TBf9J\_WZDpF3Oy6HyNmoBj3F4Ew216OE9ltOCC1P8pw?e=YV1A3q)
 
 
 

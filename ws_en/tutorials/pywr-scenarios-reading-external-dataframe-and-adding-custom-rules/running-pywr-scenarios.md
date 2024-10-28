@@ -30,11 +30,7 @@ When a pywr-scenario is finally created, you will be able to see the following w
 
 <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-## Reading pywr-scenarios
 
-Go to catchment node **Days Weir,** click Edit **Flow**
-
-<figure><img src="../../.gitbook/assets/image (42).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
