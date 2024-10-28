@@ -194,7 +194,7 @@
     * [Adding reservoir bathymetry (Area)](tutorials/creating-a-reservoir-system/adding-reservoir-details/adding-reservoir-bathymetry-area.md)
     * [Adding reservoir bathymetry (Level)](tutorials/creating-a-reservoir-system/adding-reservoir-details/adding-reservoir-bathymetry-level.md)
     * [Adding monthly evaporation and rainfall](tutorials/creating-a-reservoir-system/adding-reservoir-details/adding-monthly-evaporation-and-rainfall.md)
-  * [Additional exercises using allocation penalties and control rules](tutorials/creating-a-reservoir-system/additional-exercises-using-allocation-penalties-and-control-rules.md)
+  * [Using allocation penalties and control rules to balance sources](tutorials/creating-a-reservoir-system/additional-exercises-using-allocation-penalties-and-control-rules.md)
   * [Control Curves and Demand Savings](tutorials/creating-a-reservoir-system/control-curves-and-demand-savings/README.md)
     * [Adding reservoir control curves and demand savings (reductions)](tutorials/creating-a-reservoir-system/control-curves-and-demand-savings/modelling-catchment-reservoir-systems.md)
 * [Using Allocation Penalties](tutorials/using-allocation-penalties.md)
