@@ -197,7 +197,7 @@
   * [Using allocation penalties and control rules to balance sources](tutorials/creating-a-reservoir-system/additional-exercises-using-allocation-penalties-and-control-rules.md)
   * [Control Curves and Demand Savings](tutorials/creating-a-reservoir-system/control-curves-and-demand-savings/README.md)
     * [Adding reservoir control curves and demand savings (reductions)](tutorials/creating-a-reservoir-system/control-curves-and-demand-savings/modelling-catchment-reservoir-systems.md)
-* [Using Allocation Penalties](tutorials/using-allocation-penalties.md)
+* [Using Allocation Penalties to Allocate Water](tutorials/using-allocation-penalties.md)
 * [Pywr-scenarios reading external DataFrame and adding Custom Rules](tutorials/pywr-scenarios-reading-external-dataframe-and-adding-custom-rules/README.md)
   * [Uploading Files](tutorials/pywr-scenarios-reading-external-dataframe-and-adding-custom-rules/uploading-files.md)
   * [Reading CSV DataFrame](tutorials/pywr-scenarios-reading-external-dataframe-and-adding-custom-rules/reading-csv-dataframe.md)

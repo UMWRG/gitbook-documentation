@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Using Allocation Penalties
+# Using Allocation Penalties to Allocate Water
 
-This tutorial uses allocation penalties to balance sources
+Content coming soon.
 
 
 
