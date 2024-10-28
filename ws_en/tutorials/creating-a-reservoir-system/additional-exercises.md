@@ -14,7 +14,7 @@ layout:
 
 # Additional Exercises
 
-1. **Use the video below to define a monthly releaes rule that represents a minimum environmental flow downstream of the reservoir.** You are free to define the monthly flows that you feel are appropriate. Please use a new scenario by cloning the **'Demand with GW scenario'.**
+1. **Use the video below to define a monthly release rule that represents a minimum environmental flow downstream of the reservoir.** You are free to define the monthly flows that you feel are appropriate. Please use a new scenario by cloning the **'Demand with GW scenario'.**
 
 &#x20;        _Hint: This can be done by defining a monthly parameter on the Max Flow of the release rule._ How does the environmental flow affect the simulated volume of the reservoir? How does it affect downstream flows? Please show the plots generated for these output parameters.
 
