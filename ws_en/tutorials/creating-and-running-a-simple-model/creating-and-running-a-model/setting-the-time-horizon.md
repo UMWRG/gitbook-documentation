@@ -6,7 +6,7 @@ Please watch the video page for more detail.
 
 Click on the the **network level data** menu button.
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 The network level data window appears.&#x20;
 
@@ -30,4 +30,4 @@ Input the following data above and click **Save**.
 
 This time horizon can be shorter than our input data, but the start and end dates must be within the range of your data. The date format and syntax is strict.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2024-08-08 at 1.03.19 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2024-08-08 at 1.03.19 AM.png" alt=""><figcaption></figcaption></figure>

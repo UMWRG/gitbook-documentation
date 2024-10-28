@@ -18,11 +18,11 @@ Creating a project in WaterStrategy is essential for organizing and managing wat
 
 1. In the [‘My projects’](https://hydra.org.uk/projects) page, click on **Create Project.**
 
-![](<../../.gitbook/assets/0 (8).png>)
+![](<../../../.gitbook/assets/0 (8).png>)
 
 We will name this Project “My First Project”. You can add a description if you would like. Then Click **Add.**
 
-![](<../../.gitbook/assets/1 (8).png>)
+![](<../../../.gitbook/assets/1 (8).png>)
 
 "My First Project" has been created. Within this project, users can create different network versions and upload files such as input data, which will be shared among the networks within the project.
 
@@ -36,15 +36,15 @@ Additionally, creating a new network from an existing one is easy – users can 
 
 1. Click on “My First Project” to go into it
 
-![](<../../.gitbook/assets/2 (7).png>)
+![](<../../../.gitbook/assets/2 (7).png>)
 
 1. Click on **Create Network**.
 
-![](<../../.gitbook/assets/3 (7).png>)
+![](<../../../.gitbook/assets/3 (7).png>)
 
 1. Click on **Manual**
 
-![](<../../.gitbook/assets/4 (7).png>)
+![](<../../../.gitbook/assets/4 (7).png>)
 
 add a Name and optionally a Description to your Network.
 
@@ -56,4 +56,4 @@ Choose your Template, in this case _Pywr child template v1 (March 2021) – flow
 
 “My New Network” is now created!.
 
-![](<../../.gitbook/assets/5 (6).png>)
+![](<../../../.gitbook/assets/5 (6).png>)

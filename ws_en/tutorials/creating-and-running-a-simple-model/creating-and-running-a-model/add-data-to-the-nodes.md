@@ -16,20 +16,20 @@ Max\_flow = 0
 
 Allocation penalty = 0
 
-You may need to click on the edit ![](<../../.gitbook/assets/0 (11).png>) button to change the values.
+You may need to click on the edit ![](<../../../.gitbook/assets/0 (11).png>) button to change the values.
 
-![](<../../.gitbook/assets/1 (11).png>)
+![](<../../../.gitbook/assets/1 (11).png>)
 
-1. Double click on catchment node, on the right panel inside Inputs section, on **flow** attribute click on the edit button ![](<../../.gitbook/assets/2 (10).png>).
+1. Double click on catchment node, on the right panel inside Inputs section, on **flow** attribute click on the edit button ![](<../../../.gitbook/assets/2 (10).png>).
 
-![](<../../.gitbook/assets/3 (10).png>)
+![](<../../../.gitbook/assets/3 (10).png>)
 
 new window will appear, Click **Options**, select **PYWR\_DATAFRAME** and click **Save**
 
-![](<../../.gitbook/assets/4 (10).png>)
+![](<../../../.gitbook/assets/4 (10).png>)
 
 1. The window will update to the Dataframe tab. Copy the data from the Excel file using the link above and paste it as shown in the image. Note that 2 columns must be used, column A for the date-time index and column B for the data values. Click **Save. For more detail please watch the video.**
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2024-08-08 at 12.56.21 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2024-08-08 at 12.56.21 AM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2024-08-08 at 12.57.23 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2024-08-08 at 12.57.23 AM.png" alt=""><figcaption></figcaption></figure>
