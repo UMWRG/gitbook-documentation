@@ -72,13 +72,13 @@ layout:
 
 [making-changes-to-a-model](tutorials/creating-and-running-a-simple-model/making-changes-to-a-model/ "mention")
 
-[creating-a-reservoir-system](tutorials/modelling-basin-reservoir-systems/creating-a-reservoir-system/ "mention")
+[creating-a-reservoir-system](tutorials/creating-a-reservoir-system/ "mention")
 
-[adding-reservoir-details](tutorials/modelling-basin-reservoir-systems/creating-a-reservoir-system/adding-reservoir-details/ "mention")
+[adding-reservoir-details](tutorials/creating-a-reservoir-system/adding-reservoir-details/ "mention")
 
-[using-allocation-penalties](tutorials/using-allocation-penalties/ "mention")
+[using-allocation-penalties.md](tutorials/using-allocation-penalties.md "mention")
 
-[control-curves-and-demand-savings](tutorials/modelling-basin-reservoir-systems/creating-a-reservoir-system/control-curves-and-demand-savings/ "mention")
+[control-curves-and-demand-savings](tutorials/creating-a-reservoir-system/control-curves-and-demand-savings/ "mention")
 
 
 

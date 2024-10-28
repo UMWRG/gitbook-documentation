@@ -20,18 +20,18 @@ In this section an output node representing a municipal demand will be added to 
 
 Add an **output** node to the system which will represent an urban demand that wil abstract water from the reservoir. Rename the node to 'Example demand'.
 
-<figure><img src="../../../.gitbook/assets/image (218).png" alt=""><figcaption><p>Adding an output node as a demand</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption><p>Adding an output node as a demand</p></figcaption></figure>
 
 ## Baseline demand
 
 In the **Baseline** scenario set the following attributes on the **Example demand** node:
 
-<figure><img src="../../../.gitbook/assets/image (220).png" alt="" width="375"><figcaption><p>Baseline scenario</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (220).png" alt="" width="375"><figcaption><p>Baseline scenario</p></figcaption></figure>
 
 * **max\_flow** = 0. This represents a deamnd of 0 Mm3/day.
 * **allocation\_penalty** = -1000. This represents a high priority for water allocation
 
-<figure><img src="../../../.gitbook/assets/image (221).png" alt=""><figcaption><p>The attributes defined on the Example demand node</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption><p>The attributes defined on the Example demand node</p></figcaption></figure>
 
 ## **Create a new scenariao**
 
@@ -43,15 +43,15 @@ In the **Baseline** scenario set the following attributes on the **Example deman
 
 In the **'With demand'** scenario, set the **max\_flow** of the Example demand to 0.1 Mm3/day and run this scenario ![](https://water-strategy.gitbook.io/\~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FLG7JgbktYGchOfcaz0zv%2Fblobs%2FxccVMlqqFMkgoP5T8BDH%2Fimage.png\&width=300\&dpr=4\&quality=100\&sign=530a8e5b\&sv=1).
 
-<figure><img src="../../../.gitbook/assets/image (222).png" alt="" width="289"><figcaption><p>Example demand</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (222).png" alt="" width="289"><figcaption><p>Example demand</p></figcaption></figure>
 
 ## View and compare the reservoir volume
 
 View the **simulated\_volume** of the reservoir in this scenario and compare against the baseline.
 
-<figure><img src="../../../.gitbook/assets/image (223).png" alt="" width="375"><figcaption><p>Selecting baseline to compare</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (223).png" alt="" width="375"><figcaption><p>Selecting baseline to compare</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption><p>Reservoir volume comparison</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption><p>Reservoir volume comparison</p></figcaption></figure>
 
 ## Exercises and questions <a href="#exercises-and-questions" id="exercises-and-questions"></a>
 

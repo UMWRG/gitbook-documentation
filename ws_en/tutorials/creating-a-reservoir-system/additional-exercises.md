@@ -22,7 +22,7 @@ layout:
 
 [https://docs.google.com/spreadsheets/d/1MR1Xxk77gFzcY3J3r6c6g38UB8pd1HMY/edit?gid=1271109401#gid=1271109401](https://docs.google.com/spreadsheets/d/1MR1Xxk77gFzcY3J3r6c6g38UB8pd1HMY/edit?gid=1271109401#gid=1271109401)
 
-<figure><img src="../../../.gitbook/assets/image (243).png" alt="" width="240"><figcaption><p>Data for dry scenario</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (243).png" alt="" width="240"><figcaption><p>Data for dry scenario</p></figcaption></figure>
 
 How does this inflow scenario impact reservoir storage?&#x20;
 

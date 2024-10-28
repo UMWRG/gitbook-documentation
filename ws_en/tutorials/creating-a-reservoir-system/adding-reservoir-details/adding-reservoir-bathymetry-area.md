@@ -32,7 +32,7 @@ Below is an example Area rating table:
 
 When plotted it looks like this:
 
-<figure><img src="../../../../.gitbook/assets/image (162).png" alt=""><figcaption><p>Area Rating Curve</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (162).png" alt=""><figcaption><p>Area Rating Curve</p></figcaption></figure>
 
 [Pywr Parameters ](https://water-strategy.gitbook.io/water-strategy/modelling-fundamentals/parameters)are functions that return a value in the model at each time-step. These values can be a constant, based on time (e.g. on the day or month), a calculation based on the time step reservoir storage and many other calculations. In this case, we are interested in a parameter that returns the Area of a reservoir or storage node as a function of its time-step storage. To do this we use an [Interpolated Volume Parameter](https://water-strategy.gitbook.io/water-strategy/modelling-fundamentals/parameters/interpolated-volume).
 
@@ -47,20 +47,20 @@ _This tutorial includes both types of definitions. The area will be defined on t
 1. Clone the **'Demand with treatment losses'** scenario and call the new one **'Adding reservoir P and E'.** The P stands for Precipitation and E stands for Evaporation.&#x20;
 2. Click on the **Reservoir** and edit the **Area** attribute.
 
-<figure><img src="../../../../.gitbook/assets/image (115).png" alt="" width="375"><figcaption><p>Edit the Area attribute</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (115).png" alt="" width="375"><figcaption><p>Edit the Area attribute</p></figcaption></figure>
 
 3. The Interpolated Volume Parameter does not currently have a JSON editor in WaterStrategy. In order to define this parameter on this attribute, we need to use the generic **PYWR\_PARAMETER**. This allows us to put in the JSON for any Pywr parameter.
 
-<figure><img src="../../../../.gitbook/assets/image (85).png" alt="" width="375"><figcaption><p>Selecy PYWR_PARAMETER</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (85).png" alt="" width="375"><figcaption><p>Selecy PYWR_PARAMETER</p></figcaption></figure>
 
 Press **OK**
 
-<figure><img src="../../../../.gitbook/assets/image (65).png" alt="" width="315"><figcaption><p>Allow the change</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (65).png" alt="" width="315"><figcaption><p>Allow the change</p></figcaption></figure>
 
 \
 4\. Copy and Paste the JSON code below into the text in the **JSON tab**
 
-<figure><img src="../../../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Paste the JSON code and save</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Paste the JSON code and save</p></figcaption></figure>
 
 ```
 {
@@ -89,14 +89,14 @@ Press **OK**
 
 5. You can select to record the parameter value as a time series by selecting **Timeseries** in the **Outputs** tab. Then, save it.
 
-<figure><img src="../../../../.gitbook/assets/image (86).png" alt=""><figcaption><p>Select to record the parameter and save</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption><p>Select to record the parameter and save</p></figcaption></figure>
 
 6. Run the model and view the **Simulated\_Area** output
 
-<figure><img src="../../../../.gitbook/assets/image (68).png" alt=""><figcaption><p>Simulated_Area output</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption><p>Simulated_Area output</p></figcaption></figure>
 
 This shows the Area of the reservoir over time.
 
-<figure><img src="../../../../.gitbook/assets/image (88).png" alt=""><figcaption><p>Area of the reservoir</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption><p>Area of the reservoir</p></figcaption></figure>
 
 Smaller areas correspond with lower reservoir storage volumes.
