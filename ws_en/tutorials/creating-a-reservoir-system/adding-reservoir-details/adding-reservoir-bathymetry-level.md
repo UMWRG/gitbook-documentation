@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Adding reservoir bathymetry (Level)
 
 The water **Level** of a reservoir can be calculatedi n the same way as for a reservoir. A reservoir's water level is required to be able to calculate hydropower. While the Botswana National Model doesn't include hydropower, for completeness it is included in this tutorial.

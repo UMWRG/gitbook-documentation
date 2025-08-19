@@ -1,9 +1,3 @@
----
-description: >-
-  To build a 'digital twin' (a computer simulator) of your water system,
-  WaterStrategy uses Pywr (‘Python Water Resources’).
----
-
 # What is Pywr?
 
 Pywr is a free and open-source Python language software library that allows building high quality (detailed and accurate) simulation models of water resource systems.

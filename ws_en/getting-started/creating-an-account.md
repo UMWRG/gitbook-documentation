@@ -1,7 +1,3 @@
----
-description: How to create a free account in WaterStrategy
----
-
 # Creating an Account
 
 Watch the video or follow the text below. [WaterStrategy](https://www.waterstrategy.org/index.html) accounts are made on [https://hydra.org.uk/register](https://hydra.org.uk/register)  ('Hydra' is the name of our web server).

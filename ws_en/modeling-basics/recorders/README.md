@@ -1,7 +1,3 @@
----
-description: An overview of Pywr recorders supported by WaterStrategy
----
-
 # Recorders
 
 This page describes the process of creating a new Recorder in WaterStrategy and a selection of the most commonly used Pywrrecorder types, and most commonly used attributes.  The full list of built-in recorders and their exhaustive list of attributes are [here](https://pywr.github.io/pywr-docs/master/api/pywr.recorders.html).

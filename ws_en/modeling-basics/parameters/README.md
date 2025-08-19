@@ -1,7 +1,3 @@
----
-description: An overview of Pywr parmeters supported by WaterStrategy
----
-
 # Parameters
 
 Paramters are functions that return a value in the model at each time-step. These values can be a constant, based on time (e.g., on the day or month), a calculation based on the time step's reservoir storage and many other calculations. Custom parameter can also be written in Python.

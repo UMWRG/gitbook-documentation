@@ -1,7 +1,3 @@
----
-description: Key terms used in Pywr.
----
-
 # Pywr Concepts
 
 Pywr, a Python library used by WaterStrategy, enables simulating resource allocation by representing a resource system as a network using 'Nodes' and 'Edges'. Resource allocation is driven by operating rules using 'Allocation Penalties', 'Constraints' and 'Parameters' and model outputs are captured and saved using 'Recorders'. Variations of model inputs can be specified and run in parallel using 'Scenarios'.

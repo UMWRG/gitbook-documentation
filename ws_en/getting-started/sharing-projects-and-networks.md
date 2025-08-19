@@ -1,7 +1,3 @@
----
-description: How to share a Project or Network with other WaterStrategy users
----
-
 # Sharing Projects and Networks
 
 

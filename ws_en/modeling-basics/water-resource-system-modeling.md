@@ -1,7 +1,3 @@
----
-description: How does it work? what does it output? and how is it used?
----
-
 # Water Resource System Modeling?
 
 To understand how a water system performs today and to evaluate the impacts of future changes, planners build water resource system models.

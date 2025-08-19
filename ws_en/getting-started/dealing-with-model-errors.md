@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Dealing with Model Errors
 
 Water Strategy reports errors when there is either a technical fault, or the model has some incorrect configuration. Learning how to read a model error report and address the issue is important when creating networks.

@@ -1,7 +1,3 @@
----
-description: This page shows how to log into WaterStrategy
----
-
 # Logging In
 
 1. To log in go to [https://hydra.org.uk/login](https://hydra.org.uk/login)  (Hydra is the secure server where we currently host WaterStrategy)

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Creating a Reservoir System
 
 In this tutorial you will learn how to add new infrastructure to a model including a reservoir, treatment plant and a groundwater source that will supply a demand.

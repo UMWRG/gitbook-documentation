@@ -1,7 +1,3 @@
----
-description: Watch an overview of the WaterStrategy interface; a text summary follows.
----
-
 # Tour of the Interface
 
 {% embed url="https://www.youtube.com/watch?v=gm4-EwMDwVU" %}

@@ -1,21 +1,3 @@
----
-description: >-
-  WaterStrategy helps people and organisations understand their water system and
-  evaluate future plans. WaterStrategy's documenation helps you build, refine
-  and use a digital twin of your water system..
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # WaterStrategy Documentation
 
 <details>

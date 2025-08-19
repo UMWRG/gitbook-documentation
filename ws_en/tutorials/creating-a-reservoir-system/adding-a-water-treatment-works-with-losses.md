@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Adding a Water Treatment Works with Losses
 
 In this section a [**loss link**](https://water-strategy.gitbook.io/water-strategy/modelling-fundamentals/node-types/loss-link-node) representing a **potable water treatment works** will be added to the system. This node is used to represent treatment **losses** leaving the system. Water from the reservoir is released to the water treatment works where, a proportion of this water is lost via process losses and the remaining water is then supplied to the demand.

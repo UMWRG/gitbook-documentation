@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Adding a Source Representing Groundwater
 
 In this section an [Input ](https://water-strategy.gitbook.io/water-strategy/modelling-fundamentals/node-types/input-node)node representing a groundwater source will be added to the reservoir system. The demand node will receive water from both groundwater and the reservoir. Groundwater is modeled as a yield.

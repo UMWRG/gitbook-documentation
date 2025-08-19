@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Water Storage
 
 The water storage node type allows users to build different reservoirs with different operation modes. Below are the most used water storage nodes:

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Additional exercises using allocation penalties and control rules
 
 ## Using allocation penalties to balance source <a href="#using-allocation-penalties-to-balance-source-use-in-the-mosetse-system" id="using-allocation-penalties-to-balance-source-use-in-the-mosetse-system"></a>

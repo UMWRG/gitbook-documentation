@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Adding monthly evaporation and rainfall
 
 In this step, we will add the the Evaporation and Precipitation rates (mm/day). Internally the reservoir multiplies the real-time Reservoir area by the Evaportion.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Additional Exercises
 
 1. **Use the video below to define a monthly release rule that represents a minimum environmental flow downstream of the reservoir.** You are free to define the monthly flows that you feel are appropriate. Please use a new scenario by cloning the **'Demand with GW scenario'.**

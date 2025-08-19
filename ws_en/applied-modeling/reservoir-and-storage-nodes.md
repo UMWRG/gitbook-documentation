@@ -1,9 +1,3 @@
----
-description: >-
-  This page describes the behaviour and configuration of Pywr reservoir nodes in
-  WaterStrategy.
----
-
 # Reservoir and Storage Nodes
 
 ### Allocation penalties on reservoirs <a href="#ref161067076" id="ref161067076"></a>

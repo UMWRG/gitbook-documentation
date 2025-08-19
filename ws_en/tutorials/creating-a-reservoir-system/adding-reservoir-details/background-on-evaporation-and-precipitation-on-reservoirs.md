@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Background on Evaporation and Precipitation on Reservoirs
 
 ## Quantifying Evaporation and Precipitation flow <a href="#quantifying-evaporation-and-precipitation-flow" id="quantifying-evaporation-and-precipitation-flow"></a>
